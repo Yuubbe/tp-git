@@ -2,11 +2,13 @@
 
 version 2 
 ```
-git clone
+git clone https://github.com/Yuubbe/tp-git.git
+
 ```
 
 
 ```
-ssh 
+ssh git@github.com:Yuubbe/tp-git.git
+
 
 ```
